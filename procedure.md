@@ -1,6 +1,7 @@
 ## Генерируем линейный массив
 
-<
+
+```
 procedure gen_line_mas(params1: array of integer; params2:integer);
 var t:integer;
 begin
@@ -10,4 +11,4 @@ begin
         write(params1[t]:4);
     end;
 end;
->
+```
