@@ -14,7 +14,8 @@ end;
 ```
 ## Сортировки
 ### Сортировка выбором по уменьшению
-```procedure vibor(params1:integer);
+```
+procedure vibor(params1:integer);
 var i,k,min:integer;
 begin
   for i:= 1 to params1-1 do
@@ -27,7 +28,8 @@ begin
 end;
 ```
 ### Сортировка выбором по возростанию
-```procedure vibor(params1:integer);
+```
+procedure vibor(params1:integer);
 var i,k,min:integer;
 begin
   for i:= 1 to params1-1 do
