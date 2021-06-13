@@ -7,4 +7,5 @@
 
 ### 🎓 Стек технологий
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoheveras)](https://github.com/anuraghazra/github-readme-stats)
 ![xoheveras GitHub stats](https://github-readme-stats.vercel.app/api?username=xoheveras&count_private=true&show_icons=true)
