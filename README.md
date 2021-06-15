@@ -6,7 +6,7 @@
 </ul>
 
 ### 🎓 Стек технологий
-<img src="Date/TH.png">
+<img src="Date/BGTH.png">
 
 ### 🚀 GitHub Статистика
 
