@@ -7,5 +7,5 @@
 
 ### 🎓 Стек технологий
 <img src="Date/TH.png">
-
+### 🎓 GitHub Статистика
 ![xoheveras GitHub stats](https://github-readme-stats.vercel.app/api?username=xoheveras&count_private=true&show_icons=true)
