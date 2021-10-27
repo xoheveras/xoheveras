@@ -13,8 +13,6 @@
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=JavaScript&color=543f53)
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Pawn&color=543f53)
 
-
-![Profile views](https://gpvc.arturio.dev/xoheveras)
 ### ⚙️  GitHub Analytics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoheveras&theme=dark&border_color=19101c&bg_color=DEG,19101c,4b415b,543f53)
