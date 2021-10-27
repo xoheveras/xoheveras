@@ -7,3 +7,7 @@
 ### ⚙️  GitHub Analytics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoheveras&theme=dark&border_color=19101c&bg_color=DEG,19101c,4b415b,543f53)
+
+### ⚙️  Open Source
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xeveerinc&repo=XoMeneger)](https://github.com/anuraghazra/github-readme-stats)
