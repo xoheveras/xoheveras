@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" src="https://github.com/xoheveras/xoheveras/blob/master/Readme/Images/BG.gif">
+  <img width="900" src="https://github.com/xoheveras/xoheveras/blob/master/Readme/Images/BG.gif">
 </p>
 
 ### 🛠  Tech Stack
