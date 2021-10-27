@@ -4,7 +4,6 @@
 
 ### 🛠  Tech Stack
 
-![Profile views](https://img.shields.io/static/v1?style=for-the-badge&logo=appveyor&label=&message=C%23&color=543f53)
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=C%23&color=543f53)
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Python&color=543f53)
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=SQL&color=543f53)
