@@ -6,4 +6,4 @@
 ![Profile views](https://gpvc.arturio.dev/xoheveras)
 ### ⚙️  GitHub Analytics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoheveras&theme=dark&border_color=hide_border)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoheveras&theme=dark&border_color=hide_border&bg_color=120d1a)
