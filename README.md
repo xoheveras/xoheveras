@@ -3,6 +3,9 @@
 </p>
 
 ### 🛠  Tech Stack
+
+![Profile views](https://img.shields.io/static/v1?logo=appveyor&label=&message=C%23&color=543f53)
+
 ![Profile views](https://gpvc.arturio.dev/xoheveras)
 ### ⚙️  GitHub Analytics
 
