@@ -1,4 +1,6 @@
-<img src="https://github.com/xoheveras/xoheveras/blob/master/Readme/Images/BG.gif">
+<p align="center">
+  <img width="700" src="https://github.com/xoheveras/xoheveras/blob/master/Readme/Images/BG.gif">
+</p>
 
 ### 🛠  Tech Stack
 ![Profile views](https://gpvc.arturio.dev/xoheveras)
