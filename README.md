@@ -21,4 +21,4 @@
 
 ### ⚙️  Open Source
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xeveerinc&repo=XoMeneger&theme=dark&border_color=19101c&bg_color=DEG,19101c,4b415b,543f53)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xeveerinc&repo=XoMeneger&theme=dark&border_color=19101c&bg_color=DEG,19101c,4b415b,543f53)](https://github.com/Xeveerinc/XoMeneger)
