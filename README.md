@@ -15,8 +15,13 @@
 
 ### ⚙️  GitHub Analytics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoheveras&theme=dark&border_color=19101c&bg_color=DEG,19101c,4b415b,543f53)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoheveras&theme=dark&border_color=0d1117&bg_color=0d1117)
 
 ### ⚙️  Open Source
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RetCode&repo=XoMeneger&theme=dark&border_color=19101c&bg_color=DEG,19101c,4b415b,543f53)](https://github.com/Xeveerinc/XoMeneger)
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RetCode&repo=XoMeneger&theme=dark&border_color=0d1117&bg_color=0d1117)](https://github.com/Xeveerinc/XoMeneger) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RetCode&repo=XoMeneger&theme=dark&border_color=0d1117&bg_color=0d1117)](https://github.com/McVanhellm/College_project)
+  
+</div>
