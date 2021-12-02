@@ -22,6 +22,6 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RetCode&repo=NAT.PY&theme=dark&border_color=0d1117&bg_color=0d1117)](https://github.com/McVanhellm/College_project) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xoheveras&repo=CMS&theme=dark&border_color=0d1117&bg_color=0d1117)](https://github.com/xoheveras/CMS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RetCode&repo=NAT.PY&theme=dark&border_color=0d1117&bg_color=0d1117)](https://github.com/McVanhellm/College_project)
   
 </div>
