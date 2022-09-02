@@ -22,6 +22,6 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RetCode&repo=NAT.PY&theme=dark&border_color=0d1117&bg_color=0d1117)](https://github.com/RetCode/NAT.PY)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xoheveras&repo=Xinoro&theme=dark&border_color=0d1117&bg_color=0d1117)](https://github.com/xoheveras/Xinoro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xoheveras&repo=Xinoro&theme=dark&border_color=0d1117&bg_color=0d1117)](https://github.com/xoheveras/Xinoro)
   
 </div>
