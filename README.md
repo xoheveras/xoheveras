@@ -14,6 +14,9 @@
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=JavaScript&color=purple)
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Pawn&color=purple)
 
+### ⚙️  Analytics
+![](https://komarev.com/ghpvc/?username=xoheveras&color=blueviolet)
+
 ### ⚙️  Open Source
 
 
