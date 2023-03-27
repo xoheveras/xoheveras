@@ -4,18 +4,18 @@
 
 ### 🛠  Tech Stack
 
-![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=C%23&color=0d1117)
-![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Python&color=0d1117)
-![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=SQL&color=0d1117)
-![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=.NET&color=0d1117)
-![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Delphi&color=0d1117)
-![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Html%2BCSS3&color=0d1117)
-![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=JavaScript&color=0d1117)
-![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Pawn&color=0d1117)
+![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=C%23&color=purple)
+![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Python&color=purple)
+![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=SQL&color=purple)
+![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=.NET&color=purple)
+![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Delphi&color=purple)
+![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Html%2BCSS3&color=purple)
+![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=JavaScript&color=purple)
+![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Pawn&color=purple)
 
 ### ⚙️  GitHub Analytics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoheveras&theme=dark&border_color=0d1117&bg_color=0d1117)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoheveras&theme=dark&border_color=purple&bg_color=purple)
 
 ### ⚙️  Open Source
 
