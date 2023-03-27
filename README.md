@@ -5,6 +5,7 @@
 ### 🛠  Tech Stack
 
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=C%23&color=purple)
+![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=PHP&color=purple)
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Python&color=purple)
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=SQL&color=purple)
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=.NET&color=purple)
