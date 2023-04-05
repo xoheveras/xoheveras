@@ -4,7 +4,7 @@
 
 ### 🛠  Tech Stack
 
-![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=C%23&color=purple)
+<!-- ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=C%23&color=purple)
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=PHP&color=purple)
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Python&color=purple)
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=SQL&color=purple)
@@ -12,7 +12,7 @@
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Delphi&color=purple)
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Html%2BCSS3&color=purple)
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=JavaScript&color=purple)
-![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Pawn&color=purple)
+![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Pawn&color=purple) -->
 
 ### ⚙️  Analytics
 ![](https://komarev.com/ghpvc/?username=xoheveras&color=blueviolet)
